@@ -1,0 +1,20 @@
+- Info empresa:
+	Nombre: giraloop
+	Sector economico: Construccion
+	Mision, vision:
+		Mision: Que se construyan preparatorias que estén cerca de la casa, que saliendo de la secundaria vayan
+			directo a la preparatoria
+
+		Vision: Ser la constructora líder en el desarrollo de entornos educativos de proximidad, logrando que cada estudiante tenga una preparatoria a su alcance y contribuyendo así a reducir la deserción escolar mediante el diseño de espacios integrados al hogar."
+
+- Productos Servicios:
+	Servicios de Construcción y Diseño
+		Módulos Educativos de Rápida Ejecución:
+		Construcción de aulas modulares de alta calidad que permiten inaugurar un plantel en tiempo récord (para
+		aprovechar el ciclo escolar).
+
+- Seccion de contacto:
+	Contacto:
+		Correo: giraloop@gmail.com
+		Telefono: 442 555 6666
+
