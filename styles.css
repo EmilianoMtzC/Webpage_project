@@ -207,7 +207,21 @@ footer{
     padding: 1rem;
 }
 
-@media(max-width: 1080px){
+@media(max-width: 1450px){
+    .about {
+        padding: 4em 5%; /* Menos espacio a los lados para dar más ancho a las tarjetas */
+    }
+
+    .mission-vision-card {
+        padding: 1.5em; /* Reducimos el padding interno de las tarjetas */
+    }
+
+    .mission p, .vision p {
+        font-size: 1.1em; /* Reducimos un poco la fuente para que quepa mejor */
+    }
+}
+
+@media(max-width: 1024px){
     nav ul{
         gap: 3em;
     }
