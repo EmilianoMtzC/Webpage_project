@@ -207,7 +207,7 @@ footer{
     padding: 1rem;
 }
 
-@media(max-width: 1024px){
+@media(max-width: 1080px){
     nav ul{
         gap: 3em;
     }
