@@ -219,6 +219,10 @@ footer{
     .mission p, .vision p {
         font-size: 1.1em; /* Reducimos un poco la fuente para que quepa mejor */
     }
+
+    .project-grid{
+        grid-template-columns: 1fr;
+    }
 }
 
 @media(max-width: 1024px){
