@@ -1,5 +1,9 @@
-# Documentacion xddd
+# Actividad 1
+## Desarrollo FullStack
+### Informacion:
+- Alumno: Jesús Emiliano Martínez Ceja
+- Matrícula: AL07108460
 
-## No se que poner aqui 
-
-### Hola
+### Tecnologias utilizadas:
+- HTML
+- CSS
