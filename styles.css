@@ -305,6 +305,11 @@ footer{
     .project-grid{
         grid-template-columns: 1fr;
     }
+
+    .social-media ul {
+        display: s;
+        gap: 1em;
+    }
 }
 
 @media(max-width: 768px){
@@ -381,6 +386,23 @@ footer{
         display: flex;
         flex-direction: column;
         gap: 1em;
+    }
+
+    footer {
+        padding: 2em 2em;
+    }
+
+    .footer-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 2em;
+    }
+
+    .social-media ul {
+        display: s;
+        flex-direction: column;
+        gap: 2em;
     }
 }
 
