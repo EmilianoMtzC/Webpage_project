@@ -56,7 +56,7 @@ section{
 }
 
 .hero p{
-    color: #3e301a;
+    color: #4b3a33;
     text-align: center;
     font-style: italic;
     font-size: 1.6em;
@@ -288,7 +288,11 @@ footer{
     }
 
     .hero h1{
-        font-size: 4em;
+        font-size: 6em;
+    }
+
+    .hero p{
+        color: white;
     }
 
     .about{
@@ -326,10 +330,11 @@ footer{
     }
 
     .hero h1{
-        font-size: 4em;
+        font-size: 6em;
     }
 
     .hero p{
+        opacity: 0%;
         font-size: 1em;
     }
 
