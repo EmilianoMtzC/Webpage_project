@@ -212,6 +212,7 @@ section{
     padding: 0.5em 0.4em;
     cursor: text;
 }
+
 #input_email {
     font-size: 1.3em;
     border: none;
@@ -243,8 +244,24 @@ section{
 footer{
     background: #4b3a33;
     color: white;
-    text-align: center;
     padding: 1rem;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.social-media ul {
+    display: flex;
+    list-style: none;
+    gap: 6em;
+}
+
+.social-media a {
+    color: white;
+    text-decoration: none;
 }
 
 @media(max-width: 1450px){
