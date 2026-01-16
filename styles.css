@@ -182,22 +182,62 @@ section{
     background-size: cover;
 }
 
-.contact{
+.contact {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
-    padding: 3em 13em;
-    gap: 1em;
-    background: #f7f3ee;
+    align-items: center;
+    padding: 5em;
+    background-color: #f4ede9;
 }
 
 .contact h3{
-    font-size: 1.7em;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 1em;
 }
 
-.contact p{
+.formulario{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1em;
+    border: none;
+    border-radius: 1em;
+}
+
+#input_nombre {
     font-size: 1.3em;
+    border: none;
+    border-radius: 0.6em;
+    padding: 0.5em 0.4em;
+    cursor: text;
+}
+#input_email {
+    font-size: 1.3em;
+    border: none;
+    border-radius: 0.6em;
+    padding: 0.5em 0.4em;
+    cursor: text;
+}
+
+.formulario textarea{
+    font-size: 1.3em;
+    height: 6em;
+    border: none;
+    border-radius: 0.6em;
+    padding: 1em;
+    resize: none;
+    cursor: text;
+}
+
+#submit_button {
+    font-size: 1.3em;
+    background: #4b3a33;
+    color: white;
+    border: none;
+    border-radius: 0.6em;
+    padding: 0.6em 0.4em;
+    cursor: pointer;
 }
 
 footer{
@@ -318,6 +358,12 @@ footer{
     .project-img-container{
         height: 10em;
         width: 12em;
+    }
+
+    .inputs{
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
     }
 }
 

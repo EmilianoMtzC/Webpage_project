@@ -78,10 +78,20 @@
 
         <section id="contacto" class="contact">
             <h3>Contacto:</h3>
-            <ul>
-                <li>Correo: giraloop@gmail.com</li>
-                <li>Telefono: 442-555-6666</li>
-            </ul>
+
+            <div class="contact-container">
+
+                <form class="formulario">
+                    <div class="inputs">
+                        <input id="input_nombre" type="text" placeholder="Nombre" required>
+                        <input id="input_email" type="email" placeholder="Email" required>
+                    </div>
+
+                    <textarea placeholder="Mensaje" required></textarea>
+                    <button id="submit_button" type="submit">Enviar</button>
+                </form>
+
+            </div>
         </section>
     </main>
 
